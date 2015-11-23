@@ -3,5 +3,8 @@
 
 
 
- ![image](https://github.com/zcwlwen/phoneNumber/info/1.png)
+ ![image](https://github.com/zcwlwen/phoneNumber/blob/master/info/1.png)
+ ![image](https://github.com/zcwlwen/phoneNumber/blob/master/info/2.png)
+ ![image](https://github.com/zcwlwen/phoneNumber/blob/master/info/3.png)
+
  
